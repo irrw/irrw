@@ -5,7 +5,7 @@ I'm a designer @ rainwing via reynastudio. You might recognize me from partnersh
 - 💞️ I’m looking to collaborate on open source projects, projects that serve a greater good.
 - 📫 How to reach me ireyna rainwing co
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Earth's atmosphere weighs *5 quadrillion* tons (5 * 10 ^ 15 tons). why aren't we pancakes?
+- ⚡ Fun fact: Earth's atmosphere weighs **5 quadrillion** tons (5 * 10 ^ 15 tons). why aren't we pancakes?
 
 <!---
 irrw/irrw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
