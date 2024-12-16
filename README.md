@@ -1,5 +1,5 @@
 # 👋 Hi, I’m iván - @irrw 
-## I'm a designer @ rainwing via reynastudioa
+## I'm a designer @ rainwing via reynastudio
 - 👀 I’m interested in 🍕, but also socially responsible projects and apps that serve the greater good.
 - 🌱 I’m currently learning about physics and the universe, but also user experience design, technical design
 - 💞️ I’m looking to collaborate on open source projects, projects that serve a greater good.
