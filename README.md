@@ -29,6 +29,8 @@ Previously architected and scaled experiences for **Varo**, **Slyngshot**, and *
 > **Q: Earth's atmosphere weighs approximately $5 \times 10^{15}$ tons. Why aren't we pancakes?**
 > 
 > **A:** Internal equilibrium. The fluids and gases inside our bodies are pressurized to match the exact outward force of the atmosphere ($14.7 \text{ psi}$ at sea level). We aren't crushed because the pressure pushing out equals the pressure pushing in.
+>
+> *Coincidentally, this is exactly why not wearing a suit in space is a bad idea. No graceful way to get the toothpaste back in the tube.*
 
 ---
 
